@@ -32,3 +32,10 @@ This project analyzes sales performance, profitability, customer behavior, and r
 
 ## 🎯 Business Outcome
 The analysis identifies Technology as the most profitable category and highlights a 10.4% return rate impacting revenue. Strategic recommendations were provided to improve profitability and operational efficiency.
+
+<img width="1305" height="727" alt="Superstore Sales   Performance Dashboard page 1" src="https://github.com/user-attachments/assets/4fedf4b4-55f3-4dd1-8316-4d8500074cf6" />
+
+
+<img width="1278" height="713" alt="Superstore Sales   Performance Dashboard page 2" src="https://github.com/user-attachments/assets/17f3ff41-b27c-4190-8fb9-616b5a3a0188" />
+
+
